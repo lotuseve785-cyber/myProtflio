@@ -1,0 +1,42 @@
+
+@media (max-width:567px){
+  nav.navbar  {
+    width: 567px;
+
+}
+.section-hero{
+
+  width: 567px;
+}
+.about-me{
+  width: 567px;
+}
+.skills{
+  width: 567px;
+}
+.my-skills .col-lg-4{
+  width: 600px;
+}
+.myProjects{
+  width: 567px;
+}
+.card{
+  width: 567px;
+}
+.card-img-top{
+  width: 500px;
+}
+.Testmonials{
+  width: 567px;
+}
+.contactMe{
+  width: 576px;
+}
+#footer{
+  width: 576px;
+}
+.contactMe .col-lg-6{
+  width: 576px;
+}
+
+}
